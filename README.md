@@ -1,2 +1,2 @@
 # Conferences
-Conferences, courses and summer schools options -- just informative
+Conferences, courses and summer schools material -- just informative
